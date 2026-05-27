@@ -18,3 +18,20 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **Live Network Discovery Simulation**: Provisioned a 3-node localized star topology connected to a Cisco 2960 Switch inside Cisco Packet Tracer. Switched to simulation frame analytics to observe an ARP Broadcast query (`FF:FF:FF:FF:FF:FF`) trigger a systematic switch-port flooding event .
 * **CAM Memory Validation**: Formally audited the switch's internal RAM configuration via the CLI utilizing `show mac address-table` to verify dynamic MAC-to-Interface matching parameters .
 * **Linux Kernel Socket Enumeration**: Logged directly into the Ubuntu sandbox kernel terminal to execute `ss -tulpn` and deployed `nmap 127.0.0.1` to track system exposures, isolating background system operations actively running on Layer 4 security channels (Port 53 DNS / Port 631 Printing Daemon) .
+
+### 🛡️ Day 3: Advanced Network Slicing & Security Automation Logic
+
+#### 🌅 1. Infrastructure & Subnet Engineering (CCNA Day 7 & 8)
+* **IP Addressing Classes**: Documented global routing boundaries across Class A (`1-126`), Class B (`128-191`), and Class C (`192-223`) networks.
+* **Custom Subnetwork Slicing (VLSM)**: Mastered the mechanics of Variable Length Subnet Masking. Studied bit-borrowing concepts to slice open network ranges into isolated, secure compartments.
+* **Whiteboard Calculation Mastery**: Applied the Magic Number formula (`256 - Mask`) to solve complex subnetwork boundaries, successfully calculating absolute Network IDs, Broadcast Addresses, and usable host ranges across custom `/26`, `/27`, and `/28` CIDR bitwise layouts.
+
+#### ☀️ 2. Operating System Security & Hardening Lab
+* **OS Account Auditing**: Navigated the Linux filesystem directory to audit the core system user database file `/etc/passwd` and the restricted password hashing database file `/etc/shadow`.
+* **Privilege Escalation Mitigation**: Simulated a insider threat attack by dynamically tracking user group membership, successfully appending and revoking root administrative access (`sudo` group) using `usermod` and `deluser`.
+* **File System Hardening**: Implemented the Principle of Least Privilege by applying numerical absolute notations (`chmod 600`) to sensitive data files, successfully hardening configurations and validating explicit kernel-level `Permission denied` blocks against unauthorized user accounts.
+
+#### 🌇 3.  Python Security Automation & Conditional Logic
+* **Variable Architecture**: Provisioned structured memory storage containers using explicitly case-sensitive data types (Strings and Integers) to track system parameters like `ip_address` and `failed_logins`.
+* **Typographical Debugging**: Successfully identified, isolated, and resolved a runtime compilation `NameError` caused by variable character casing variations.
+* **Autonomous Decision Mitigation Matrix**: Programmed defensive logical branches utilizing conditional syntax (`if`, `elif`, `else`) to force the script to automatically parse system state changes and flash system lockout warnings when remaining login thresholds hit critical limits.
