@@ -71,3 +71,25 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **State Change Tracking**: Engineered counting algorithms (`counter = counter + 1`) to dynamically track security trends, successfully calculating brute-force login attack frequencies and endpoint compliance violations.
 * **Compound Logic Operators**: Deployed bitwise logical `or` evaluations inside automated execution steps to isolate and block network traffic targeting restricted infrastructure ports (SSH 22 / RDP 3389).
 
+  ### 🛡️ Day 6: Routing Foundations, Compound Log Rotators & Advanced Python Loop Matrices
+
+#### 1. Layer 3 Routing Fundamentals & Static Routing (CCNA Day 11)
+* **Layer 3 Packet De-Encapsulation**: Mastered the operational sequence of network routers upon packet receipt, analyzing the decapsulation of Layer 2 frame structures to process Layer 3 Destination IP addresses.
+* **Routing Table Determinism**: Analyzed router path choices via internal routing tables, utilizing the Longest Match rule algorithm to select optimal next-hop paths.
+* **Static Route Implementation Rules**: Studied administrative path configuration protocols using manual static route assertions to hardcode network transit channels, and documented defensive "blackhole routing" logic to discard malicious traffic at the network edge.
+
+#### 2. Project-Driven Linux Compound Lab
+* **Automated Architecture Pipelines**: Constructed a connected multi-tiered security system inside the Ubuntu kernel, linking system logging, automated script execution, and absolute file system configurations.
+* **Script Automation Execution**: Authored an operational backup utility script (`backup_system.sh`) using the `nano` editor, designing data cloning pipelines to copy and secure active system audit files (`secure_audit.log`).
+* **Absolute Permission Hardening**: Diagnosed and resolved standard kernel-level `Permission denied` execution faults by calculating and applying precise bitwise access modifiers (`chmod 744`) to protect script files from unprivileged modification.
+* **Persistent Cron Automation**: Linked the hardened execution script directly to the root operating system clock parameters via `crontab -e`, successfully scheduling background daemons (`crond`) to automatically run system backups every 60 seconds.
+* **Diagnostic Timestamp Auditing**: Deployed granular file listing filters (`ls -l --time-style=+%H:%M`) to audit file system metadata and confirm active execution down to the exact minute boundary.
+
+#### 3. Python Advanced Boolean Flags & Array Searching Metrics
+* **State Preservation Operations**: Engineered global Boolean threat flags (`True`/`False`) inside linear loop passes to preserve network state records across dynamic datasets.
+* **Pipeline Early-Termination**: Deployed the loop-interrupt `break` keyword to enforce instant execution kill-switches, optimizing CPU clock cycles by aborting background file scans immediately upon threat verification.
+* **Defensive String Normalization**: Implemented case-insensitive input parsing using the `.lower()` method, neutralizing signature bypass tactics where malicious actors obscure payloads using mixed-case characters.
+* **Network Whitelist Architectures**: Constructed secure data exclusion perimeters using the logical `not in` membership operator to dynamically match real-time connection traffic against an approved array of safe ports (80/443).
+* **Compliance Ratio Computation**: Programmed a system-wide endpoint risk calculator that dynamically computes an infrastructure exposure percentage metric based on data array index parameters.
+
+
