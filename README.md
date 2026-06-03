@@ -92,4 +92,31 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **Network Whitelist Architectures**: Constructed secure data exclusion perimeters using the logical `not in` membership operator to dynamically match real-time connection traffic against an approved array of safe ports (80/443).
 * **Compliance Ratio Computation**: Programmed a system-wide endpoint risk calculator that dynamically computes an infrastructure exposure percentage metric based on data array index parameters.
 
+### 🛡️ Day 7: Routing Fundamentals, Dynamic Archive Engineering & Multi-Stage Bash Pipelines
+
+#### 1. Layer 3 Routing Fundamentals (CCNA Day 11 & 12 Tracking)
+* **Layer 3 Packet De-Encapsulation**: Mastered the operational sequence of network routers upon packet receipt, tracking the destruction of Layer 2 frame wrappers to evaluate Layer 3 Destination IP configurations.
+* **Routing Table Determination**: Analyzed internal routing table lookup paths, documenting how the router utilizes the Longest Match rule algorithm to parse overlapping network metrics and select the optimal next-hop interface link.
+
+#### 2. Project-Driven Linux Compound Lab (Log Rotator Phase 2 & Web Segregator)
+* **Dynamic Variable Encapsulation**: Upgraded custom shell scripts by encapsulating live hardware clock variables (`NOW=$(date +%Y-%m-%d_%H-%M)`), forcing the kernel to dynamically generate unique historical file paths.
+* **Troubleshooting and Path De-Duplication**: Diagnosed and resolved classic file system compilation bugs including multi-nested path errors (`/home/seckitty/home/seckitty/` duplicates) and structural tilde path scattering parameters.
+* **Automated Data Compression Pipelines**: Engineered two complete, production-tier shell utilities (`log_rotator.sh` and `web_segregator.sh`), successfully implementing high-performance archiving algorithms (`tar -czf`) to compress text strings into timestamped `.tar.gz` containers before cleanly purging raw logs via `rm`.
+* **Least Privilege Parameter Hardening**: Enforced absolute numerical access perimeters (`chmod 744`), validating execution permissions for the script owner while maintaining strict read-only barriers across external group domains.
+
+### 🛡️ Day 8: Network Socket Auditing & Conditional Loops (While-Loop Foundations)
+
+#### 1. Project-Driven Linux LAN & Network Audit Project
+* **Hardware Interface Profiling**: Utilized the Linux kernel parameters (`ip -4 addr show`) to identify the local network interface properties (`enp0s3`) and map active IPv4 and CIDR configurations (`10.0.2.15/24`).
+* **Automated Auditing Engines**: Authored an integrated network profile script (`lan_scanner.sh`) to query live routing metrics and default network gateway exits (`ip route show`).
+* **Diagnostic Pipeline Correction**: Troubleshooted shell compilation bugs by replacing mismatched address discovery commands with explicit routing lookup tables and tracking loopback behaviors (`10.0.2.2`).
+* **Active Port Stream Enumeration**: Applied socket streaming tools (`ss -tulpn`) inside multi-tiered automation pipelines to dump open network listeners straight into timestamped log containers.
+
+#### 2. Python Loop Control Mechanisms & Variable Interrogation Blitz
+* **Conditional Logic Loops**: Mastered the execution bounds of `while` loops, tracking state variations in CPU registers to verify when specific conditions evaluate to False.
+* **Authentication Gateways**: Engineered secure system lockout screens, combining iteration limit thresholds with structural break parameters to terminate loop executions upon valid input matches.
+* **Dynamic Array Shrinkage**: Deployed array popping tools (`pop(0)`) to modify queue sizes in system memory dynamically, systematically cleaning a SIEM incident array down to a size metric of zero.
+* **Interactive Shell Emulation**: Built an operational incident response command prompt interface utilizing Boolean driver flags (`session_active = True`) to process user inputs and handle continuous workflow cycles.
+
+
 
