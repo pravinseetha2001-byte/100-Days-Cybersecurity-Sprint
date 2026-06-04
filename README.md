@@ -118,5 +118,19 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **Dynamic Array Shrinkage**: Deployed array popping tools (`pop(0)`) to modify queue sizes in system memory dynamically, systematically cleaning a SIEM incident array down to a size metric of zero.
 * **Interactive Shell Emulation**: Built an operational incident response command prompt interface utilizing Boolean driver flags (`session_active = True`) to process user inputs and handle continuous workflow cycles.
 
+### 🛡️ Day 15: Advanced VLSM Infrastructure, Network Pipeline Parsing & List Localization Matrices
+
+#### 1. Advanced Subnet Engineering & VLSM Design (CCNA Day 15)
+* **Variable Length Subnet Masking (VLSM)**: Mastered structural host allocation arithmetic to slice network boundaries dynamically, optimizing IP bit-space efficiency across disparate local area network domains.
+* **Bit-Boundary Classifications**: Analyzed network ID properties, host requirements, and broadcast limits, tracking how a `/24` prefix mapping enforces strict address segment parameters (`10.0.2.0` to `10.0.2.255`).
+
+#### 2. Project-Driven Linux Compound Lab (Subnet Segment Provisioner)
+* **Kernel State Pattern Scanning**: Engineered a multi-stage text processing and interface capture pipeline utilizing automated search metrics (`ip -o -4 addr show | awk '{print $2, $4}'`) to strip unneeded IPv6 metrics and isolate active adapters (`enp0s3`).
+* **Routing Table Interrogation**: Authored an integrated network boundaries script (`subnet_provisioner.sh`) to query live routing metrics, evaluating local subnet routes (`scope link`) and tracking exit hop parameters (`default via 10.0.2.2`).
+* **Absolute Parameter Hardening**: Enforced robust numerical access perimeters (`chmod 744`), securing execution rights for the administrator while maintaining strict read-only barriers across external group domains.
+
+#### 3. Python Advanced List Search & Index Parsing Blitz
+* **Membership Verification Bounds**: Deployed the logical membership operator (`in`) to evaluate real-time connectivity inputs against an approved subnetwork IP address whitelist array to block rogue connections.
+* **Forensic Index Localization**: Utilized array location methods (`.index()`) to track and pinpoint the exact chronological slot position of malicious attack signatures (`malware_payload`) within continuous packet data streams.
 
 
