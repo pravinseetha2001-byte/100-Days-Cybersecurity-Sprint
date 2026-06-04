@@ -118,19 +118,24 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **Dynamic Array Shrinkage**: Deployed array popping tools (`pop(0)`) to modify queue sizes in system memory dynamically, systematically cleaning a SIEM incident array down to a size metric of zero.
 * **Interactive Shell Emulation**: Built an operational incident response command prompt interface utilizing Boolean driver flags (`session_active = True`) to process user inputs and handle continuous workflow cycles.
 
-### 🛡️ Day 15: Advanced VLSM Infrastructure, Network Pipeline Parsing & List Localization Matrices
+### 🛡️ Day 9: Core Subnetting, VLSM Infrastructure Design & Local Network Profiling
 
-#### 1. Advanced Subnet Engineering & VLSM Design (CCNA Day 15)
-* **Variable Length Subnet Masking (VLSM)**: Mastered structural host allocation arithmetic to slice network boundaries dynamically, optimizing IP bit-space efficiency across disparate local area network domains.
-* **Bit-Boundary Classifications**: Analyzed network ID properties, host requirements, and broadcast limits, tracking how a `/24` prefix mapping enforces strict address segment parameters (`10.0.2.0` to `10.0.2.255`).
+#### 1. IP Subnetting & Dynamic VLSM Engineering (CCNA Days 13, 14 & 15)
+* **Classless Inter-Domain Routing (CIDR)**: Studied the historical evolution from legacy classful address constraints to CIDR conventions, implementing flexible prefix notation rules to prevent IP pool exhaustion.
+* **Subnet Boundary Mechanics**: Mastered structural host space math using the binary calculation matrix ($2^{\text{host\_bits}} - 2$) to isolate network IDs, useable host blocks, and broadcast boundaries across Class A, B, and C address parameters.
+* **Variable Length Subnet Masking (VLSM)**: Engineered efficient multi-subnet allocation frameworks, designing hierarchical IP address patterns to fulfill disparate host requirements while maintaining network efficiency.
 
-#### 2. Project-Driven Linux Compound Lab (Subnet Segment Provisioner)
-* **Kernel State Pattern Scanning**: Engineered a multi-stage text processing and interface capture pipeline utilizing automated search metrics (`ip -o -4 addr show | awk '{print $2, $4}'`) to strip unneeded IPv6 metrics and isolate active adapters (`enp0s3`).
-* **Routing Table Interrogation**: Authored an integrated network boundaries script (`subnet_provisioner.sh`) to query live routing metrics, evaluating local subnet routes (`scope link`) and tracking exit hop parameters (`default via 10.0.2.2`).
-* **Absolute Parameter Hardening**: Enforced robust numerical access perimeters (`chmod 744`), securing execution rights for the administrator while maintaining strict read-only barriers across external group domains.
+#### 2. Project-Driven Linux LAN & Network Audit Project
+* **Hardware Interface Profiling**: Utilized Linux kernel parameter tools (`ip -4 addr show`) to identify local adapter configurations (`enp0s3`) and map active IPv4 structures (`10.0.2.15/24`).
+* **Multi-Stage Text Processing Pipelines**: Engineered a high-performance text parsing filter using automated utilities (`ip -o -4 addr show | awk '{print $2, $4}'`) to drop messy IPv6 strings and isolate active adapters.
+* **Routing Table Interrogation**: Authored an integrated network boundaries script (`subnet_provisioner.sh`) to query live routing metrics, evaluating local subnet routes (`scope link`) and tracking default gateway exit hops (`default via 10.0.2.2`).
+* **Active Port Stream Enumeration**: Applied socket streaming tools (`ss -tulpn`) inside automated shell scripts to dump open network listeners into timestamped logs under a strict `chmod 744` security perimeter.
 
-#### 3. Python Advanced List Search & Index Parsing Blitz
-* **Membership Verification Bounds**: Deployed the logical membership operator (`in`) to evaluate real-time connectivity inputs against an approved subnetwork IP address whitelist array to block rogue connections.
-* **Forensic Index Localization**: Utilized array location methods (`.index()`) to track and pinpoint the exact chronological slot position of malicious attack signatures (`malware_payload`) within continuous packet data streams.
+#### 3. Python Loop Control Mechanisms & Variable Interrogation Blitz
+* **Conditional Logic Loops**: Mastered the execution bounds of `while` loops, tracking state variations in CPU registers to verify when specific conditions evaluate to False.
+* **Authentication Gateways**: Engineered secure system lockout screens, combining iteration limit thresholds with structural break parameters to terminate loop executions upon valid input matches.
+* **Dynamic Array Shrinkage**: Deployed array popping tools (`pop(0)`) to modify queue sizes in system memory dynamically, systematically cleaning a SIEM incident array down to a size metric of zero.
+* **Interactive Shell Emulation**: Built an operational incident response command prompt interface utilizing Boolean driver flags (`session_active = True`) to process user inputs and handle continuous workflow cycles.
+
 
 
