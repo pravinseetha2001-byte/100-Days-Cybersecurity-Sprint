@@ -137,5 +137,20 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **Dynamic Array Shrinkage**: Deployed array popping tools (`pop(0)`) to modify queue sizes in system memory dynamically, systematically cleaning a SIEM incident array down to a size metric of zero.
 * **Interactive Shell Emulation**: Built an operational incident response command prompt interface utilizing Boolean driver flags (`session_active = True`) to process user inputs and handle continuous workflow cycles.
 
+### 🛡️ Day 10: Manual Subnet Optimization, Network Socket Sentinels & Advanced Loop Control
+
+#### 1. Advanced Subnet Arithmetic & VLSM Boundary Design (CCNA Day 10)
+* **Manual Network ID Localization**: Mastered high-speed manual subnet calculations without a calculator, analyzing block increment sizes ($32$, $64$, $8$) across Class A, B, and C address spaces to map precise usable host ranges.
+* **Octet-Bleed Boundary Tracking**: Solved dual-octet variable boundaries (Class B $/19$ prefixes), tracking the exact bit shifting mechanics that force the third octet down while maximizing the fourth octet container space to find the true broadcast address (`172.16.63.255`).
+* **Variable Length Subnet Masking (VLSM)**: Structured a multi-department infrastructure tier allocation framework (HR/IT/SOC), ordering network segments from largest host demand down to smallest to prevent IP pool exhaustion.
+
+#### 2. Project-Driven Linux Compound Lab (Automated Network Sentinel v1)
+* **Kernel Socket Auditing**: Engineered a connected multi-stage terminal profiling script (`sentinel_scan.sh`) inside the Ubuntu filesystem to audit live system connection states (`ss -tna`).
+* **RegEx Stream Redirection**: Deployed advanced pattern filters (`grep -E "ESTAB|LISTEN"`) to isolate high-priority active connection channels while dynamically suppressing idle background system noise.
+* **Forensic Metadata Verification**: Constructed a secured log collection vault to track local printing loopback channels (Port `631`), validating Receive Queue memory buffers (`Recv-Q = 0`) to verify system stability down to a strict `chmod 744` perimeter.
+
+#### 3. Python Loop Control Mechanisms & Advanced Backoff Throttling Blitz
+* **Exponential Backoff Automation**: Programmed automated throttling loops using progressive multiplication logic (`delay = delay * 2`) inside structural `while` conditions to calculate dynamic network delay recovery timers.
+* **Stream Sanitization Boundaries**: Deployed the loop-control `continue` keyword to build an operational data filter pipeline, successfully intercepting, skipping, and stripping garbage system noise strings out of active packet queues.
 
 
