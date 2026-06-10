@@ -153,4 +153,16 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **Exponential Backoff Automation**: Programmed automated throttling loops using progressive multiplication logic (`delay = delay * 2`) inside structural `while` conditions to calculate dynamic network delay recovery timers.
 * **Stream Sanitization Boundaries**: Deployed the loop-control `continue` keyword to build an operational data filter pipeline, successfully intercepting, skipping, and stripping garbage system noise strings out of active packet queues.
 
+* ### 🛡️ Day 11: Virtual Network Segmentation, Case-Insensitive Stream Filters & Architectural Pipelines
+
+#### 1. Virtual Local Area Network (VLAN) Fundamentals (CCNA Day 16 Tracking)
+* **Broadcast Domain Logic**: Studied the performance limitations of Layer 2 broadcast loops, analyzing how physical switches can be logically segmented using VLAN configurations to restrict ARP storm contamination.
+* **SOC Access Port Isolation**: Analyzed defensive orchestration blueprints where network analysts dynamically shift infected switch port interfaces to isolated quarantine networks (`VLAN 666`) to block an attacker's lateral movement options.
+
+#### 2. Project-Driven Linux Compound Lab (Connection Sentinel Phase 2 & Rogue Monitor)
+* **Transport Stream Parsing**: Engineered an upgraded network monitoring suite (`sentinel_p2.sh`) to query live transport layer states, systematically logging active port lifecycles (`LISTEN`/`ESTAB`) via advanced regex operators (`grep -E`).
+* **Case-Insensitive Input Hardening**: Diagnosed and patched a classic text filtration trap by deploying case-insensitive matching boundaries (`grep -Ei`), ensuring structural log headers (`State`/`Send-Q`) are accurately intercepted regardless of kernel output casing.
+* **Environment Variable Perimeterization**: Configured standalone rapid-response monitors (`rogue_monitor.sh`) utilizing absolute path variables (`$ALERT_LOG`) to dump active local loopback printing daemons (Port `631`) into secured forensic reports under a strict `chmod 744` user execution fence.
+
+
 
