@@ -164,5 +164,23 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 * **Case-Insensitive Input Hardening**: Diagnosed and patched a classic text filtration trap by deploying case-insensitive matching boundaries (`grep -Ei`), ensuring structural log headers (`State`/`Send-Q`) are accurately intercepted regardless of kernel output casing.
 * **Environment Variable Perimeterization**: Configured standalone rapid-response monitors (`rogue_monitor.sh`) utilizing absolute path variables (`$ALERT_LOG`) to dump active local loopback printing daemons (Port `631`) into secured forensic reports under a strict `chmod 744` user execution fence.
 
+## Day 12: Inter-VLAN Security Engineering & Programmatic Log Parsing Automation
+
+### 1. CCNA Infrastructure Tracking
+- **Topic**: Jeremy's IT Lab Day 17 - VLANs Part 2 (Trunking & Tagging)
+- **Core Concepts**: Mastered 802.1Q encapsulation architecture, trunk link operations, and native VLAN security parameters. 
+- **Security Takeaway**: Explored how native VLAN mismatches cause traffic leaks across logical boundaries and analyzed the mechanics of double-tagged VLAN Hopping exploits.
+
+### 2. Project-Driven Linux Compound Lab
+- **Directory Workspace**: `~/Desktop/SOC_Project`
+- **Implementation**: Formed a hardened forensic directory perimeter utilizing `sudo groupadd secops` and advanced permission octals (`chmod 750` / `700`) to strictly isolate incident log text strings.
+- **Automation**: Hand-typed `log_analyzer.sh`. Configured file existence validations, input/output string redirection parsing, and deployed a `while read -r` loop to parse a web access payload and dump threat alerts into a timestamped incident ledger.
+- **Key Discovery**: Resolved privilege denial blocks by migrating permissions structures from root-only access to standard user mode configurations to enforce clean operational code practices.
+
+### 3. Python Blitz Night Stack
+- **Directory Workspace**: `~/Desktop/SOC_Lab`
+- **Implementation**: Developed a high-speed automation engine (`forensic_parser.py`) completely from scratch with zero copy-pasting to read local system log files line-by-line.
+- **Data Engineering**: Applied memory-efficient context streaming (`with open()`), list splitting (`.split()`), string cleanup (`.strip()`), and variable formatting literals (`f-strings`) to read network telemetry data.
+- **Incident Matrix Results**: Effectively parsed the threat vector string payload (`185.220.101.5`), isolated 3 rogue authentication footprints, and mathematically aggregated total stolen data metrics: **3 malicious requests traced | 46,104,540 bytes exfiltrated**.
 
 
