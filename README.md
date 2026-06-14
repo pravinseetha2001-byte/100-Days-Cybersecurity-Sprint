@@ -183,4 +183,20 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 - **Data Engineering**: Applied memory-efficient context streaming (`with open()`), list splitting (`.split()`), string cleanup (`.strip()`), and variable formatting literals (`f-strings`) to read network telemetry data.
 - **Incident Matrix Results**: Effectively parsed the threat vector string payload (`185.220.101.5`), isolated 3 rogue authentication footprints, and mathematically aggregated total stolen data metrics: **3 malicious requests traced | 46,104,540 bytes exfiltrated**.
 
+  
+## Day 13: Layer 3 SVI Virtualization & Bash Pipeline Telemetry
+
+### 1. CCNA Infrastructure Tracking
+- **Topic**: Jeremy's IT Lab Day 18 - VLANs Part 3 (Layer 3 Switches & SVIs)
+- **Core Concepts**: Mastered hardware-accelerated routing mechanics, Switched Virtual Interfaces (SVIs), routed ports (`no switchport`), and untagged native routing configurations.
+
+### 2. Project-Driven Linux Compound Lab
+- **Directory Workspace**: `~/Desktop/SOC_Project`
+- **Implementation**: Transformed a client VM into a Layer 3 routing gateway by toggling kernel parameters (`sysctl -w net.ipv4.ip_forward=1`). Created Virtual IP Aliases using interface labeling (`enp0s3:1` and `enp0s3:2`) to simulate hardware SVIs for isolated subnets.
+- **Forensic Pipelines**: Engineered `traffic_generator.sh` and `threat_analyzer.sh`. Constructed an advanced multi-stage text processing pipeline (`cat | grep | awk | sort | uniq -c`) to isolate a brute-force threat vector (`203.0.113.5`) hitting the secure subnet.
+
+### 3. Python Blitz Night Stack
+- **Directory Workspace**: `~/Desktop/SOC_Lab`
+- **Implementation**: Developed `network_parser.py` using strict user-mode execution parameters. Leveraged context managers (`with open`), logical boolean checks, and array element slicing (`.split()[0]`) to ingest multi-zone logs and isolate malicious IPs dynamically.
+
 
