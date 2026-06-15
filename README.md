@@ -200,3 +200,16 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 - **Implementation**: Developed `network_parser.py` using strict user-mode execution parameters. Leveraged context managers (`with open`), logical boolean checks, and array element slicing (`.split()[0]`) to ingest multi-zone logs and isolate malicious IPs dynamically.
 
 
+## Day 14: STP Network Loop Prevention & Telemetry State Mapping Automation
+
+### 1. CCNA Infrastructure Tracking
+- **Topic**: Jeremy's IT Lab Day 20 Part 1 - Spanning Tree Protocol (STP)
+- **Core Concepts**: Mastered redundant link architecture, Root Bridge election mechanics (Bridge Priority vs. MAC Address), Port Roles (Root Port, Designated Port, Blocking Port), and BPDU frame delivery.
+
+### 2. Project-Driven Linux Compound Lab
+- **Directory Workspace**: `~/Desktop/SOC_Project`
+- **Implementation**: Engineered an active system loop status monitor (`interface_sentinel.sh`). Configured real-time command substitution strings (`$()`), automated channel output redirection (`> /dev/null 2>&1`), and a `-z` text length validation fallback gate to cleanly log hardware port state transitions (`UP` / `DOWN`) onto the disk during simulated network link failures.
+
+### 3. Python Blitz Night Stack
+- **Directory Workspace**: `~/Desktop/SOC_Lab`
+- **Implementation**: Developed `interface_parser.py` using strict zero copy-paste manual terminal entry. Deployed structured Python dictionary data types (`dict`) and string delimiter fragmentation rules (`.split("STATE=")[-1]`) to systematically count historical network port drops from unformatted text files.
