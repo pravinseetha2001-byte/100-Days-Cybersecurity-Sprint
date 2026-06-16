@@ -213,3 +213,18 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 ### 3. Python Blitz Night Stack
 - **Directory Workspace**: `~/Desktop/SOC_Lab`
 - **Implementation**: Developed `interface_parser.py` using strict zero copy-paste manual terminal entry. Deployed structured Python dictionary data types (`dict`) and string delimiter fragmentation rules (`.split("STATE=")[-1]`) to systematically count historical network port drops from unformatted text files.
+
+## Day 16: STP State Convergence & Programmatic Whitelist Ingestion
+
+### 1. CCNA Infrastructure Tracking
+- **Topic**: Jeremy's IT Lab Day 21 - Spanning Tree Protocol (Part 2)
+- **Core Concepts**: Mastered STP convergence timelines, transitional port states (Listening/Learning), PortFast deployment, and BPDU Guard edge security parameters.
+
+### 2. Project-Driven Linux Compound Lab
+- **Directory Workspace**: `~/Desktop/SOC_Project`
+- **Implementation**: Engineered an active link isolation script (`bpdu_guard_sim.sh`). Configured real-time command substitution strings, automated channel output redirection, and a `-z` text validation fallback gate to cleanly isolate interface states during simulated zone updates.
+
+### 3. Python Blitz Night Stack
+- **Directory Workspace**: `~/Desktop/SOC_Lab`
+- **Implementation**: Developed `whitelist_sentinel.py` using strict zero copy-paste manual terminal entry. Deployed structured Python list collections and membership operators (`not in`) to systematically evaluate live interface arrays against a trusted corporate baseline to trigger automated containment sequences.
+
