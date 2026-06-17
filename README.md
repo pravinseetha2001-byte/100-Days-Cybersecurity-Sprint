@@ -214,7 +214,7 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 - **Directory Workspace**: `~/Desktop/SOC_Lab`
 - **Implementation**: Developed `interface_parser.py` using strict zero copy-paste manual terminal entry. Deployed structured Python dictionary data types (`dict`) and string delimiter fragmentation rules (`.split("STATE=")[-1]`) to systematically count historical network port drops from unformatted text files.
 
-## Day 16: STP State Convergence & Programmatic Whitelist Ingestion
+## Day 15: STP State Convergence & Programmatic Whitelist Ingestion
 
 ### 1. CCNA Infrastructure Tracking
 - **Topic**: Jeremy's IT Lab Day 21 - Spanning Tree Protocol (Part 2)
