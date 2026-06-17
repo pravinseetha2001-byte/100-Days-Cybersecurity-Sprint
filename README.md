@@ -227,4 +227,17 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 ### 3. Python Blitz Night Stack
 - **Directory Workspace**: `~/Desktop/SOC_Lab`
 - **Implementation**: Developed `whitelist_sentinel.py` using strict zero copy-paste manual terminal entry. Deployed structured Python list collections and membership operators (`not in`) to systematically evaluate live interface arrays against a trusted corporate baseline to trigger automated containment sequences.
+## Day 16: STP Architecture Security & Multilayer Telemetry Ingestion
+
+### 1. CCNA Infrastructure Tracking
+- **Topic**: Jeremy's IT Lab Day 21 Parts 3 & 4 - Root Guard & Loop Guard Hardening
+- **Core Concepts**: Mastered superior BPDU interception matrices, Root-Inconsistent port states, unidirectional link corruption mechanics, and Loop-Inconsistent fail-safe port deployment.
+
+### 2. Project-Driven Linux Compound Lab
+- **Directory Workspace**: `~/Desktop/SOC_Project`
+- **Implementation**: Developed `root_guard_sim.sh` to enforce administrative hostname integrity guards. Mastered system parameter evaluation (`$(hostname)`), case-sensitivity execution rules, and automated kernel-level hardware interface isolation utilities.
+
+### 3. Python Blitz Night Stack
+- **Directory Workspace**: `~/Desktop/SOC_Lab`
+- **Implementation**: Engineered an advanced network logic simulator (`stp_hardener.py`). Hand-typed nested list/dictionary data matrices to ingest multi-layered interface streams, deploying automated program-level controls to enforce programmatic Root Guard and Loop Guard alert playbooks.
 
