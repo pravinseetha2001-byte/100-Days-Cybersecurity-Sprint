@@ -241,3 +241,17 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 - **Directory Workspace**: `~/Desktop/SOC_Lab`
 - **Implementation**: Engineered an advanced network logic simulator (`stp_hardener.py`). Hand-typed nested list/dictionary data matrices to ingest multi-layered interface streams, deploying automated program-level controls to enforce programmatic Root Guard and Loop Guard alert playbooks.
 
+## Day 17: Rapid Spanning Tree Protocol & Dynamic Network Bonding Telemetry
+
+### 1. CCNA Infrastructure Tracking
+- **Topic**: Jeremy's IT Lab Day 22 & Day 23 - Rapid STP (802.1w) & EtherChannel Mechanics
+- **Core Concepts**: Mastered RSTP Proposal/Agreement sync handshakes, accelerated convergence metrics (<6s), alternate backup paths, and LACP link aggregation bundling protocols.
+
+### 2. Project-Driven Linux Compound Lab
+- **Directory Workspace**: `~/Desktop/SOC_Project`
+- **Implementation**: Engineered an advanced dynamic link aggregation sentinel script (`bond_sentinel.sh`). Built a kernel-level network discovery pipeline utilizing array grouping syntax, text column filtering, and conditional inverse pattern-matching (`grep -v "lo"`) to programmatically track real physical hardware interface modifications.
+
+### 3. Python Blitz Night Stack
+- **Directory Workspace**: `~/Desktop/SOC_Lab`
+- **Implementation**: Developed `bond_parser.py` using strict user-mode manual terminal entry. Deployed context managers (`with open`), boolean string identity filters, and array element fragmentation slicing (`.split()`) to dynamically audit multi-layered port-channel log footprints.
+
