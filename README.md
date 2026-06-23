@@ -255,3 +255,16 @@ Target Location: Chennai / Bengaluru Tech Hubs (MSSPs & Consultancies).
 - **Directory Workspace**: `~/Desktop/SOC_Lab`
 - **Implementation**: Developed `bond_parser.py` using strict user-mode manual terminal entry. Deployed context managers (`with open`), boolean string identity filters, and array element fragmentation slicing (`.split()`) to dynamically audit multi-layered port-channel log footprints.
 
+## Day 18: Dynamic Routing Protocols & Kernel-Level Metric Ingestion
+
+### 1. CCNA Infrastructure Tracking
+- **Topic**: Jeremy's IT Lab Day 24 - Dynamic Routing Protocols
+- **Core Concepts**: Mastered IGP vs EGP boundary definitions, Distance Vector vs Link-State algorithmic maps, and absolute Network Convergence requirements under infrastructure failover testing.
+
+### 2. Project-Driven Linux Compound Lab
+- **Directory Workspace**: `~/Desktop/SOC_Project`
+- **Implementation**: Engineered an active kernel-level routing baseline sentinel (`route_monitor.sh`). Configured automated regular expression extraction utilities (`grep -oE "metric [0-9]+"`) and numerical test flags (`-gt`) to systematically track routing table modifications.
+
+### 3. Python Blitz Night Stack
+- **Directory Workspace**: `~/Desktop/SOC_Lab`
+- **Implementation**: Developed `route_parser.py` using strict zero copy-paste manual terminal entry. Deployed programmatic string partitioning (`.split()`) and dynamic integer type-casting (`int()`) to isolate, evaluate, and flag infrastructure route degradation timelines out of raw text files.
